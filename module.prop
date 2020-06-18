@@ -1,0 +1,6 @@
+id=z_opse
+name=OnePlus Pocketmode Switch Enabler
+version=v2.2
+versionCode=3
+author=dijia1124
+description=adds settings to /system/etc/feature_list to enable  Pocket Mode option in Settings>Utilities
